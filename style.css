@@ -1,0 +1,31 @@
+html
+{
+    width: 2000px;
+    background-color: gray;
+}
+body
+{
+
+    width: 1000px;
+    height: 3000px;
+    margin-left: 400px;
+    border-radius: 7px;
+    background-color: white;
+}
+header
+{
+    background-color: gray;
+    height: 50px;
+    border-radius: 7px;
+    background-color: rgba(59, 59, 214, 0.856);
+}
+.name
+{
+    margin-top: 15px;
+    font-family: arial;
+    font-size: 30px;
+}
+.img
+{
+    margin-left: 80px;
+}
